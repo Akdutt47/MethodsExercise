@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BDo//jusNLcjYGTWFWohZUUF5wXiTid7LD09qBIBo5Ab14Vc3s2DlwFu9jWPgUdowWRHNmFn7gsa5cjbQU39SA==",
+  "dgSpecHash": "TCFFJr91sTHL6IJOgubI1eMDq9+PVxwHb9oYzepBhFNQyZf6jJ1s9K1w2D+kxTDUiCqtVQIoMvRGTYejC/ufeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\andre\\OneDrive\\Desktop\\TrueCoders\\Full-Stack\\MethodsExercise\\MethodsExercise\\MethodsExercise.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ak47/Desktop/Repos_folder/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
+  "expectedPackageFiles": [
+    "/Users/ak47/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.22/microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.22/microsoft.netcore.app.host.osx-arm64.6.0.22.nupkg.sha512",
+    "/Users/ak47/.nuget/packages/microsoft.netcore.app.ref/6.0.22/microsoft.netcore.app.ref.6.0.22.nupkg.sha512"
+  ],
   "logs": []
 }
